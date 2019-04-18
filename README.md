@@ -15,3 +15,6 @@ Il programma crea un array di proprietari inserendo tutti i proprietari un numer
 - SIGMOIDE: il numero di volte in cui viene inserito segue la curva sigmoide (https://it.wikipedia.org/wiki/Equazione_logistica). Il parametro definisce la ripidezza della curva
 - QUADRATONEG: il numero di volte in cui viene inserito ogni proprietario cresce molto all'inizio, poi viene calmierato
 - QUADRATOPOS: il numero di volte in cui viene inserito ogni proprietario cresce poco all'inizio poi cresce in maniera polinomiale
+
+
+Tutti i programmi sono rilasciati secondo i termini della GPL version 2.0
